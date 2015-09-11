@@ -7,3 +7,6 @@ https://www.researchgate.net/publication/280039751_Segmenting_Natural_Images_wit
 The segmentation algorithm obtains the state-of-the-art performance both on boundary- and region- measures on BSDS500.
 
 Please cite the paper if you want to use the source codes in your work. Also, any suggestions or bug reports will be highly appreciated.
+
+Qiyang Zhao, Beihang University
+zhaoqy@buaa.edu.cn
