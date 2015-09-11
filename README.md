@@ -8,5 +8,4 @@ The segmentation algorithm obtains the state-of-the-art performance both on boun
 
 Please cite the paper if you want to use the source codes in your work. Also, any suggestions or bug reports will be highly appreciated.
 
-Qiyang Zhao, Beihang University
-zhaoqy@buaa.edu.cn
+Contact me: zhaoqy@buaa.edu.cn.
